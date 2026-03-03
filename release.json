@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/hyveli/wp-cookie-consent-dist/releases/download/v1.0.0/wp-cookie-consent.zip",
+  "requires": "6.0",
+  "tested": "6.4",
+  "requires_php": "8.0",
+  "last_updated": "2026-03-03 10:41:56",
+  "sections": {
+    "description": "A self-contained WordPress plugin that implements WCAG 2.1 AA accessibility best practices site-wide with one-click toggles. No overlays, real fixes only.",
+    "changelog": "<h4>1.0.0</h4><ul><li>Check the release notes for details</li></ul>"
+  }
+}
