@@ -1,7 +1,7 @@
 {
   "name": "WP Cookie Consent",
-  "version": "1.0.4",
-  "download_url": "https://github.com/hyveli/wp-cookie-consent-dist/releases/download/v1.0.4/wp-cookie-consent.zip",
+  "version": "1.0.5",
+  "download_url": "https://github.com/hyveli/wp-cookie-consent-dist/releases/download/v1.0.5/wp-cookie-consent.zip",
   "requires": "6.0",
   "tested": "6.7",
   "last_updated": "2026-03-03",
