@@ -1,11 +1,12 @@
 {
-  "name": "WP Cookie Consent",
-  "version": "1.0.97",
-  "download_url": "https://github.com/hyveli/wp-cookie-consent-dist/releases/download/v1.0.97/wp-cookie-consent.zip",
+  "version": "1.0.98",
+  "download_url": "https://github.com/hyveli/wp-cookie-consent-dist/releases/download/v1.0.98/wp-cookie-consent.zip",
   "requires": "6.0",
   "tested": "6.7",
-  "last_updated": "2026-03-08",
+  "requires_php": "8.0",
+  "last_updated": "2026-03-08 13:05:17",
   "sections": {
-    "changelog": "See GitHub for full changelog."
+    "description": "GDPR-compliant cookie consent management with Google Analytics 4 (GA4) support and Consent Mode v2 integration. Zero external dependencies.",
+    "changelog": "<h4>1.0.98</h4><ul><li>Check the release notes for details</li></ul>"
   }
 }
